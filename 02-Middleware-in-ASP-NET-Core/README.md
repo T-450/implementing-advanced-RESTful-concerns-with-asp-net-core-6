@@ -214,8 +214,11 @@ app.Run(async context => { ... });
 Links:
 
 [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0)
+
 [Write custom ASP.NET Core middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-6.0)
+
 [Test ASP.NET Core middleware](https://docs.microsoft.com/en-us/aspnet/core/test/middleware?view=aspnetcore-6.0)
+
 [DEEP DIVE: HOW IS THE ASP.NET CORE MIDDLEWARE PIPELINE BUILT?](stevejgordon.co.uk/how-is-the-asp-net-core-middleware-pipeline-built)
 
 
