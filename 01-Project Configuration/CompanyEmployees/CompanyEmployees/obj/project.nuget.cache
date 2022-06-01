@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bilzRy8WvHuM6xx3+eLBndftLCRec3Fmfvksv6ALhqwiGUhcqAvHv3MsfrDK3N8JjX8JA9b37JsRSq7r7A5VoQ==",
+  "dgSpecHash": "Ql+/V/b2NPY8AlfWW3SzsGe8d6vRz+60Fn2ZxMoguVOZX+Pn1v4yef5SLUMOb5lo+ri++kMJY1XSyxKKNcF35g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edwar\\OneDrive\\Books\\ultimate-asp-net-core-web-api\\Source Code\\01-Project Configuration\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+  "projectFilePath": "C:\\Users\\A408003\\source\\tutorial-implementing-advanced-RESTful-concerns-with-asp-net-core-6\\01-Project Configuration\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
