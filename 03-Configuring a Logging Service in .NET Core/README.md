@@ -151,7 +151,11 @@ public class WeatherForecastController : ControllerBase
 Links:
 
 [NLogger](https://nlog-project.org/)
+
 [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-6.0)
+
 [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line)
+
 [Implement a custom logging provider in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/custom-logging-provider)
+
 [HTTP Logging in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-logging/?view=aspnetcore-6.0)
