@@ -1,2 +1,4 @@
 ﻿/02-Middleware-in-ASP-NET-Core/.idea/
 /.idea/
+*/.idea/
+*.bak
